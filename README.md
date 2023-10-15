@@ -1,4 +1,4 @@
-## :sassy_man:  About
+##  About
 - :technologist: I love solving all kinds of software `problems`.
 - :student: While developing projects, I have knowledge of many components such as `PHP`, `CSS3`, `HTML5`, `jQuery`, `JavaScript`, `MySQL`, `Node.js`, `React.js`, `Next.js`, `Express.js`, `Bootstrap`, `Tailwind` and I make developments using these components according to your demands.
 - :nerd_face: Always learning new things 🥰
